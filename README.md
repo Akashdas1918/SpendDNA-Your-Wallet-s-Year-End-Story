@@ -51,9 +51,9 @@
 
 ## 🛠 Tech Stack & Dependencies
 
-- **Language:** Python 3.x[cite: 2]
-- **Data Manipulation:** `pandas==2.2.3`, `numpy==2.1.3`[cite: 2]
-- **Visuals & Tables:** Pure Text & Custom ASCII Engine (Zero external plotting dependencies)[cite: 2]
+- **Language:** Python 3.x
+- **Data Manipulation:** `pandas==2.2.3`, `numpy==2.1.3`
+- **Visuals & Tables:** Pure Text & Custom ASCII Engine (Zero external plotting dependencies)
 
 ---
 
